@@ -24,6 +24,10 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Statistics
+- description: 
+  icon: chart-bar
+  icon_pack: far
+  name: Data Visualisation
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'
