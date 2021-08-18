@@ -32,7 +32,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/nasir-rajah-b32b8377/
 superuser: true
-title: Nelson Bighetti
+title: Nasir Rajah
 ---
 
 I am currently a Research Fellow at University College London (UCL). My research interests can broadly understood to lie in quantitative social science. 
