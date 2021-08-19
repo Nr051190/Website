@@ -35,4 +35,4 @@ superuser: true
 title: Nasir Rajah
 ---
 
-I am currently a Research Fellow at University College London (UCL). My research interests can broadly understood to lie in quantitative social science. 
+I am currently a Research Fellow at University College London (UCL). My research interests can broadly be understood to lie in quantitative social science. 
