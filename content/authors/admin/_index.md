@@ -30,7 +30,7 @@ social:
   link: https://github.com/Nr051190
 - icon: linkedin
   icon_pack: fab
-  link: linkedin.com/in/nasir-rajah-b32b8377
+  link: https://linkedin.com/in/nasir-rajah-b32b8377
 superuser: true
 title: Nasir Rajah
 ---
