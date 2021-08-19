@@ -37,7 +37,7 @@ experience:
   - title: Research Fellow in Health Economics
     company: University of Leeds
     company_url: ''
-    company_logo: 
+    company_logo: UOL
     location: Leeds (U.K.)
     date_start: '2020-02-01'
     date_end: '2021-06-01'
