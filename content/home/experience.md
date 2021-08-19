@@ -25,7 +25,7 @@ experience:
   - title: Research Fellow
     company: University College London 
     company_url: ''
-    company_logo: 'UCL.svg' 
+    company_logo: UCL 
     location: London (U.K.)
     date_start: '2021-06-01'
     date_end: ''
